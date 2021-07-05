@@ -1,0 +1,44 @@
+.football{
+  display: flex;
+  margin-bottom: 150px;
+  
+}
+.one-football{
+  width: 50%;
+}
+.one-football img{
+  width: 80%;
+
+}
+#color{
+  background-color: cadetblue;
+  padding: 100px 50px 50px 50px;
+  border-radius: 100px;
+
+}
+.football-two{
+  display: flex;
+  
+  
+}
+.two-football{
+  width: 40%;
+  box-shadow:10px 10px 40px rgb(68, 45, 45) ;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 2%;
+  
+
+}
+#borderone{
+  border-image: linear-gradient(#a87b1f, #579b1f);
+  border-left: 7px solid;
+  border-image-slice: 1;
+  
+}
+#bordertwo{
+  border-image: linear-gradient(#099b8f, #8ae63f);
+  border-left: 7px solid;
+  border-image-slice: 1;
+}
+
